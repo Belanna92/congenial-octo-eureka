@@ -1,0 +1,7 @@
+Order details:
+	Name: Katie Drew
+	Phone number: 0412345678
+	Email Address: Katie@katieee.com
+	Item: Magnets (113023984)
+
+	Message: 
